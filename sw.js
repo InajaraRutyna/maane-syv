@@ -1,5 +1,5 @@
 // Network first, so updates arrive; the cache is only the offline fallback.
-const C = "maane-syv-v8";
+const C = "maane-syv-v9";
 self.addEventListener("install", e => self.skipWaiting());
 self.addEventListener("activate", e => e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== C && k.startsWith('maane-syv')).map(k => caches.delete(k)))).then(() => self.clients.claim())));
 self.addEventListener("fetch", e => {
