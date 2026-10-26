@@ -5,7 +5,11 @@ A story game for learning Danish on a phone. You are taken from your bed by alie
 Play it here: https://inajararutyna.github.io/maane-syv/
 
 - English narration; the people of the moon speak Danish; every Danish word can be tapped for its meaning.
-- Walk through the forest, catch floating words, hide from drones, build bridges out of sentences.
+- Walk through the forest and the town in the tree, catch floating words, hide from drones, build bridges out of sentences, find your way by directions.
 - Progress is saved on the phone, including in the middle of a scene.
 
-Now playable: Kapitel 1 · Afsnit 1 · Faldet.
+Now playable: all of Kapitel 1 · Ankomsten:
+
+1. Faldet
+2. Hvor længe?
+3. Bydel
